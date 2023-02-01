@@ -12,9 +12,9 @@ export default function FourCardFeature() {
       <div className="flex flex-col px-8 mt-20 lg:mt-0 justify-center">
         <div>
           <article className="flex flex-col text-center gap-2 lg:px-[29rem]">
-            <h2 className="text-c-veryDarkBlue font-cfw-200 text-2xl">
+            <h1 className="text-c-veryDarkBlue font-cfw-200 text-2xl">
               Reliable, efficient delivery
-            </h2>
+            </h1>
             <h1 className="text-c-veryDarkBlue font-cfw-600 text-2xl mb-2">
               Powered by Technology
             </h1>
@@ -31,9 +31,9 @@ export default function FourCardFeature() {
             <div className="bg-c-cyan py-[.17rem]"></div>
             <div>
               <article className="px-7 py-7 flex flex-col gap-4">
-                <h3 className="font-cfw-600 text-c-veryDarkBlue text-2xl">
+                <h2 className="font-cfw-600 text-c-veryDarkBlue text-2xl">
                   Supervisor
-                </h3>
+                </h2>
                 <p className="font-cfw-400 text-c-grayishBlue">
                   Monitors activity to identify project roadblocks
                 </p>
@@ -49,9 +49,9 @@ export default function FourCardFeature() {
               <div className="bg-c-red py-[.17rem]"></div>
               <div>
                 <article className="px-7 py-7 flex flex-col gap-4">
-                  <h3 className="font-cfw-600 text-c-veryDarkBlue text-2xl">
+                  <h2 className="font-cfw-600 text-c-veryDarkBlue text-2xl">
                     Team Builder
-                  </h3>
+                  </h2>
                   <p className="font-cfw-400 text-c-grayishBlue">
                     Scans our talent network to create the optimal team for your
                     project
@@ -66,9 +66,9 @@ export default function FourCardFeature() {
               <div className="bg-c-orange py-[.17rem]"></div>
               <div>
                 <article className="px-7 py-7 flex flex-col gap-4">
-                  <h3 className="font-cfw-600 text-c-veryDarkBlue text-2xl">
+                  <h2 className="font-cfw-600 text-c-veryDarkBlue text-2xl">
                     Karma
-                  </h3>
+                  </h2>
                   <p className="font-cfw-400 text-c-grayishBlue">
                     Regularly evaluates our talent to ensure quality
                   </p>
@@ -83,9 +83,9 @@ export default function FourCardFeature() {
             <div className="bg-c-blue py-[.17rem]"></div>
             <div>
               <article className="px-7 py-7 flex flex-col gap-4">
-                <h3 className="font-cfw-600 text-c-veryDarkBlue text-2xl">
+                <h2 className="font-cfw-600 text-c-veryDarkBlue text-2xl">
                   Calculator
-                </h3>
+                </h2>
                 <p className="font-cfw-400 text-c-grayishBlue">
                   Uses data from past projects to provide better delivery
                   estimates
